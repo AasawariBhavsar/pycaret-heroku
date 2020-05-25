@@ -1,3 +1,3 @@
-nltk.downloader wordnet
-nltk.downloader pros_cons
-nltk.downloader reuters
+wordnet
+pros_cons
+reuters
